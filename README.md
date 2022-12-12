@@ -1,5 +1,7 @@
 # AppliedML2022 - Code Repository
 
+[LINK](https://www.nbi.dk/~petersen/Teaching/AppliedMachineLearning2022.html) to course
+
 GitHub repository for code used in the course "Applied Machine Learning" 2022 at University of Copenhagen.
 
 ## Getting Started
